@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sampldflkj
+=======
+fsafsfsfsafample
+>>>>>>> develop
