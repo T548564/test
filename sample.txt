@@ -1,4 +1,8 @@
-a new bra
-ch develop
-insert one line
-test amend
+<<<<<<< HEAD
+adfsdf
+sadfas
+sadf
+asdfampldflkj
+=======
+fsafsfsfsafample
+>>>>>>> develop
